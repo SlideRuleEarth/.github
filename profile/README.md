@@ -1,5 +1,4 @@
-# SlideRule
-### An open-source framework for on-demand processing of science data in the cloud 
+## SlideRule: an open framework for on-demand processing of science data in the cloud 
 
 > The SlideRule project offers a new paradigm for NASA archival data management – rapid delivery of customizable on-demand data products, rather than hosting large volumes of standard derivative products, which will inevitably be insufficient for some science applications.
 
