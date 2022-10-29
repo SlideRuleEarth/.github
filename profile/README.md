@@ -1,6 +1,6 @@
 ## SlideRule: an open framework for on-demand processing of science data in the cloud 
 
-> The SlideRule project offers a new paradigm for NASA archival data management – rapid delivery of customizable on-demand data products, rather than hosting large volumes of standard derivative products, which will inevitably be insufficient for some science applications.
+> The SlideRule project offers a new paradigm for NASA archival data management – rapid processing and delivery of customizable data products, rather than hosting large volumes of derivative products.
 
 Repository organization:
 * [sliderule-python](https://github.com/ICESat2-SlideRule/sliderule-python) contains the Python client and example notebooks demonstrating SlideRule capabilties. Start here if you are a science user.
