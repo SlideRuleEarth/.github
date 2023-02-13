@@ -6,7 +6,7 @@ Repository organization:
 * [sliderule-python](https://github.com/ICESat2-SlideRule/sliderule-python) contains the Python client and example notebooks demonstrating SlideRule capabilties. Start here if you are a science user.
 * [sliderule](https://github.com/ICESat2-SlideRule/sliderule) contains the server-side code and H5Coro driver, mostly C++ and Lua.
 * [sliderule-docs](https://github.com/ICESat2-SlideRule/sliderule-docs) contains documentation and rendered html for the website
-* [paper](https://github.com/ICESat2-SlideRule/paper) contains materials for the JOSS publication describing SlideRule (https://github.com/openjournals/joss-reviews/issues/4700)
+* [paper](https://github.com/ICESat2-SlideRule/paper) contains materials for the JOSS publication describing SlideRule (https://joss.theoj.org/papers/10.21105/joss.04982)
 
 The scalable server-side components of SlideRule run in the AWS cloud with optimized functions to read HDF5 data hosted by NASA in S3 cloud object storage. While SlideRule can be accessed by any HTTP client (e.g., curl) through GET and POST requests, the sliderule-python client provides a user-friendly API for easy interaction with the SlideRule service. The client library returns standard Python data containers (i.e., Pandas DataFrame) and facilitates serialization with provenance metadata for reproducible science.
 
