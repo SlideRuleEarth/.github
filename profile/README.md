@@ -12,4 +12,6 @@ The scalable server-side components of SlideRule run in the AWS cloud with optim
 
 SlideRule uses a plugin framework to support different NASA missions and data products. The ICESat-2 SlideRule plugin offers customizable algorithms to process the archive of low-level data products from the NASA [Ice Cloud and land Elevation Satellite-2 (ICESat-2)](https://icesat-2.gsfc.nasa.gov/) laser altimetry mission. The user defines a geographic area of interest and key processing parameters via an interactive web interface or the API, and SlideRule returns high-level surface elevation point cloud products in seconds to minutes, enabling rapid algorithm developent, visualization and scientific interpretation.
 
-![SlideRule Architecture](https://github.com/ICESat2-SlideRule/paper/blob/main/paper/sliderule_arch_whitebg.jpg)
+![SlideRule Architecture](https://slideruleearth.io/rtd/_images/sys_block_diagram.png)
+
+
