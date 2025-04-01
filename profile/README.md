@@ -12,4 +12,4 @@ Here are the key repositories that make up SlideRule:
 * [h5coro](https://github/SlideRuleEarth/h5coro): Python implementation of HDF5 cloud-optimized read-only library
 * [paper](https://github.com/SlideRuleEarth/paper): source material for the JOSS publication (https://joss.theoj.org/papers/10.21105/joss.04982)
 
-![SlideRule Architecture](https://slideruleearth.io/rtd/_images/sysorg.png)
+![SlideRule Architecture](https://slideruleearth.io/rtd/_images/sliderule_system.png)
