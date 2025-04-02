@@ -9,7 +9,7 @@ Here are the key repositories that make up SlideRule:
 * [sliderule-python](https://github.com/SlideRuleEarth/sliderule-python): example Jupyter notebooks and Python scripts
 * [sliderule-prov-sys](https://github.com/SlideRuleEarth/sliderule-prov-sys): provisioning system code
 * [sliderule-web-client](https://github.com/SlideRuleEarth/sliderule-web-client): web client code for browser-based application
-* [h5coro](https://github/SlideRuleEarth/h5coro): Python implementation of HDF5 cloud-optimized read-only library
+* [h5coro](https://github.com/SlideRuleEarth/h5coro): Python implementation of HDF5 cloud-optimized read-only library
 * [paper](https://github.com/SlideRuleEarth/paper): source material for the JOSS publication (https://joss.theoj.org/papers/10.21105/joss.04982)
 
 ![SlideRule Architecture](https://slideruleearth.io/rtd/_images/sliderule_system.png)
